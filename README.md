@@ -1,10 +1,12 @@
+
+<img src="https://github.com/BOUTCHOUANG1/BOUTCHOUANG1/blob/main/2000_600px.gif" style="object-fit: cover; width: 100%; height: 100%;">
+
 <h1 align="center">Hi 👋, I'm Nathan Elija</h1>
-<img align="right" alt="coding" style="object-fit: cover; width: 75%; height: 50%;" src="https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif">
 <h3 align="center">A passionate Full Stack Software Developer from Cameroon</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/2131993/screenshots/4948736/thoughtworks-gif_dribbble.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=boutchouang1&label=Profile%20views&color=0e75b6&style=flat" alt="boutchouang1" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=boutchouang1" alt="boutchouang1" /></a> </p>
+
 
 - 🔭 I’m currently working on **TutorTrack**
 
