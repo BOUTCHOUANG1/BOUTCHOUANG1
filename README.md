@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **TutorTrack**
 
-- 🌱 I’m currently learning **MEARN Stack(MongoDB, Express.js,Angular, React, and Node.js,)|Android Development|Data Science**
+- 🌱 I’m currently learning **MEARN Stack (MongoDB, Express.js, Angular, React, and Node.js) | Android Development | Data Science**
 
 - 💬 Ask me about **MEARN, Android, Data Science**
 
