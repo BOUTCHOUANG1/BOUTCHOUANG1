@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Telecom Engineering Student & Full-Stack Software Developer | Java · Spring Boot · Angular · React · Microservices**
 
-- 💬 Ask me about **MEARN, Android, Data Science**
+- 💬 Ask me about **Spring, Telecom, React**
 
 - 📫 How to reach me **boutchouangelija@gmail.ocm**
 
